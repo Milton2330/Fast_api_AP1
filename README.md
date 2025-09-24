@@ -6,6 +6,7 @@ Este projeto consiste em uma API RESTful desenvolvida em Python com o framework 
 **Funcionalidades Principais**
 * **Gerenciamento de Endereços:** Consultar endereços por ID ou por Estado. Cadastrar um novo endereço. Atualizar os dados de um endereço existente. Deletar um endereço.
 * **Gerenciamento de Alunos:** Consultar alunos por ID ou por Nome. Cadastrar um novo aluno, associando-o a um endereço. Atualizar os dados de um aluno. Deletar um aluno.
+* **Gerenciamento de Disciplinas:** Consultar disciplinas por ID ou por Semestre. Cadastrar uma nova disciplina. Atualizar os dados de uma disciplina existente. Deletar uma disciplina.
 * **Segurança:** Utiliza variáveis de ambiente para proteger a senha de acesso ao banco de dados.
 * **Documentação Automática:** Por ser construída com FastAPI, a API gera documentação interativa automaticamente (via Swagger UI e ReDoc).
 
